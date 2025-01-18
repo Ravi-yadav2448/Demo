@@ -1,3 +1,4 @@
 # Demo
 This is my first Git repository.
-Author - Saurav yadav
+<br>
+<i>Author - Saurav yadav</i>
